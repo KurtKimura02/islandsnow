@@ -1,0 +1,8 @@
+footer {
+  background-color: #292929;
+  color: white;
+}
+
+hr.solid {
+  border-top: 3px solid #bbb;
+}
